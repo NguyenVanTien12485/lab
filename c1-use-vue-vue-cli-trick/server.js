@@ -18,6 +18,8 @@ const appPath = path.join(__dirname, './dist', 'server', manifest['app.js']);
 const createApp = require(appPath).default;
 
 const clientDistPath = './dist/client';
+
+// serve static files
 server.use('/img', express.static(path.join(__dirname, clientDistPath, 'img')));
 server.use('/js', express.static(path.join(__dirname, clientDistPath, 'js')));
 server.use('/css', express.static(path.join(__dirname, clientDistPath, 'css')));
