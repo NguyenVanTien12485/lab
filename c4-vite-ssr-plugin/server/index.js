@@ -7,6 +7,7 @@ const root = `${__dirname}/..`
 
 startServer()
 
+// start server
 async function startServer() {
   const app = express()
 
