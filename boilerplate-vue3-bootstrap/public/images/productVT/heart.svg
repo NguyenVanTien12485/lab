@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="90.688" viewBox="0 0 91 90.688">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.277" y1="0.115" x2="0.791" y2="0.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ede9e5"/>
+      <stop offset="1" stop-color="#fcfbfb"/>
+    </linearGradient>
+    <filter id="Ellipse_7" x="0" y="0" width="91" height="90.688" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_34618" data-name="Group 34618" transform="translate(-933.351 -820.97)">
+    <g transform="matrix(1, 0, 0, 1, 933.35, 820.97)" filter="url(#Ellipse_7)">
+      <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="26.525" cy="25.948" rx="26.525" ry="25.948" transform="matrix(-0.83, -0.56, 0.56, -0.83, 52.98, 78.69)" fill="url(#linear-gradient)"/>
+    </g>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="23.065" cy="22.488" rx="23.065" ry="22.488" transform="translate(955.785 840.826)" fill="url(#linear-gradient)"/>
+    <path id="Union_1" data-name="Union 1" d="M1.694,32.192A1.694,1.694,0,0,1,0,30.5V9.954a9.954,9.954,0,0,1,19.909,0v2.33h2.118A10.166,10.166,0,0,1,32.192,22.45a9.742,9.742,0,0,1-9.743,9.743Z" transform="translate(956.25 860.294) rotate(-45)" fill="#b11817"/>
+    <text id="_120" data-name="120" transform="translate(968.471 867.512)" fill="#fff" font-size="13" font-family="Kanit-Regular, Kanit"><tspan x="0" y="0">120</tspan></text>
+  </g>
+</svg>

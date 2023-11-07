@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="38" viewBox="0 0 39 38">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.466" x2="0.987" y2="0.565" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.466" y2="0.029" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_35045" data-name="Group 35045" transform="translate(-1169 -1180)">
+    <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="19.5" cy="19" rx="19.5" ry="19" transform="translate(1169 1180)" fill="url(#linear-gradient)"/>
+    <g id="Group_35043" data-name="Group 35043">
+      <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(1170 1181)" fill="url(#linear-gradient-2)"/>
+      <g id="Group_34806" data-name="Group 34806" transform="translate(194.5 3.5)">
+        <line id="Line_27" data-name="Line 27" x2="16" transform="translate(986.5 1191.5)" fill="none" stroke="#e06a29" stroke-width="1"/>
+        <line id="Line_29" data-name="Line 29" x2="16" transform="translate(986.5 1199.5)" fill="none" stroke="#e06a29" stroke-width="1"/>
+        <line id="Line_28" data-name="Line 28" x2="12" transform="translate(986.5 1195.5)" fill="none" stroke="#e06a29" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
