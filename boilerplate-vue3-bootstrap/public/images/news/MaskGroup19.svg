@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_188" data-name="Rectangle 188" width="30" height="30" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e06a29"/>
+      <stop offset="0.167" stop-color="#c07531"/>
+      <stop offset="1" stop-color="#1eac59"/>
+    </linearGradient>
+    <filter id="Polygon_1_copy" x="-1.625" y="-0.219" width="32.188" height="30.218" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#010101" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_19" data-name="Mask Group 19" clip-path="url(#clip-path)">
+    <g id="dot1" transform="translate(1 3)">
+      <path id="Polygon_1" data-name="Polygon 1" d="M85.594,776.875l6.75,12-6.75,12h-13.5l-6.75-12,6.75-12Z" transform="translate(-65.344 -776.875)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, -1, -3)" filter="url(#Polygon_1_copy)">
+        <path id="Polygon_1_copy-2" data-name="Polygon 1 copy" d="M83.109,781.156l4.3,7.609-4.3,7.609H74.516l-4.3-7.609,4.3-7.609Z" transform="translate(-64.34 -773.87)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

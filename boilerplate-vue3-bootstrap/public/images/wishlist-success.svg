@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.266" height="63.073" viewBox="0 0 63.266 63.073">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.277" y1="0.115" x2="0.791" y2="0.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ede9e5"/>
+      <stop offset="1" stop-color="#fcfbfb"/>
+    </linearGradient>
+    <filter id="Ellipse_7" x="0" y="0" width="63.266" height="63.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_35329" data-name="Group 35329" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_7)">
+      <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="16.447" cy="16.09" rx="16.447" ry="16.09" transform="matrix(-0.83, -0.56, 0.56, -0.83, 36.27, 51.07)" fill="url(#linear-gradient)"/>
+    </g>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="14.302" cy="13.944" rx="14.302" ry="13.944" transform="translate(8.331 8.592)" fill="url(#linear-gradient)"/>
+    <path id="Union_1" data-name="Union 1" d="M1.05,19.962A1.051,1.051,0,0,1,0,18.911V6.172a6.172,6.172,0,0,1,12.344,0V7.617h1.313a6.3,6.3,0,0,1,6.3,6.3,6.041,6.041,0,0,1-6.041,6.042Z" transform="translate(8.619 20.663) rotate(-45)" fill="#b11817"/>
+  </g>
+</svg>

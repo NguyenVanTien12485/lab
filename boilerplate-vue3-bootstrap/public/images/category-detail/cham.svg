@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_209" data-name="Path 209" d="M5,0a5,5,0,1,0,5,5A5,5,0,0,0,5,0Z" transform="translate(0 0.003)" fill="none" stroke="#707070" stroke-width="2"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="1" x2="0.201" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9e7d"/>
+      <stop offset="0.272" stop-color="#f48c69"/>
+      <stop offset="0.733" stop-color="#e6744d"/>
+      <stop offset="1" stop-color="#e16b43"/>
+    </linearGradient>
+  </defs>
+  <g id="cham" transform="translate(-231.5 -1054.497)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(231.5 1054.497)">
+      <g id="Group_292" data-name="Group 292" transform="translate(0 0)">
+        <g id="Group_291" data-name="Group 291" clip-path="url(#clip-path)">
+          <rect id="Rectangle_144" data-name="Rectangle 144" width="10" height="10" transform="translate(0 0.001)" stroke="#707070" stroke-width="2" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
