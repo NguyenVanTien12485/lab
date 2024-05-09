@@ -1,7 +1,11 @@
 import 'package:equatable/equatable.dart';
 
 final class Post extends Equatable {
-  const Post({required this.id, required this.title, required this.body});
+  const Post({
+    required this.id,
+    required this.title,
+    required this.body,
+  });
 
   final int id;
   final String title;

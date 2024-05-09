@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:infinite_list/post/bloc/post_bloc.dart';
-import 'package:infinite_list/post/widgets/bottom_leader.dart';
+import 'package:infinite_list/post/widgets/bottom_loader.dart';
 import 'package:infinite_list/post/widgets/post_list_item.dart';
 
 class PostsList extends StatefulWidget {
